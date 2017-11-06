@@ -1,0 +1,27 @@
+users:
+  miles:
+    username: miles
+    articleIds:
+      - 1
+      - 2
+    commentIds: []
+articles:
+  '1':
+    id: 1
+    title: sdfsdf
+    url: sdfsdf
+    username: miles
+    commentIds: []
+    upvotedBy: []
+    downvotedBy: []
+  '2':
+    id: 2
+    title: asdfasd
+    url: fasdf
+    username: miles
+    commentIds: []
+    upvotedBy: []
+    downvotedBy: []
+nextArticleId: 3
+comments: {}
+nextCommentId: 1
